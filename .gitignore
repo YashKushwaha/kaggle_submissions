@@ -1,0 +1,15 @@
+.venv
+
+# Ignore all __pycache__ folders
+**/__pycache__/
+
+# Ignore all .ipynb_checkpoints folders
+**/.ipynb_checkpoints/
+
+# Ignore data folder
+**/data/
+
+# Ignore all zip files
+*.zip
+*.xlsx
+*.csv
